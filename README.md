@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm M Tarek Rahman</h1>
 <h3 align="center">A passionate Softwere developer from Bangladesh</h3>
 
+<h1 align="center">
+ <img src="[image-url-here](https://i.pinimg.com/736x/60/95/71/609571a4584664c8b1f34026b96aedcc.jpg)" />
+</h1
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtarek47&label=Profile%20views&color=0e75b6&style=flat" alt="mtarek47" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtarek47" alt="mtarek47" /></a> </p>
