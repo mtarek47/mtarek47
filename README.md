@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm M Tarek Rahman</h1>
-<h3 align="center">A passionate Softwere developer from Bangladesh</h3>
 
 <h1 align="center">
  <img src="https://i.pinimg.com/736x/60/95/71/609571a4584664c8b1f34026b96aedcc.jpg" />
