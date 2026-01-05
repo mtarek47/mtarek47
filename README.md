@@ -1,6 +1,5 @@
 
 <h1 align="center">
-<img src="[usp=sharing]https://photos.google.com/search/CgAiCBIGCgRyAgoAKL6u6Om4Mw%3D%3D/photo/AF1QipNh4GyKDYce5DahpEqMPsiPCMs6D6Ld6zowXVXM](https://photos.google.com/search/CgAiCBIGCgRyAgoAKL6u6Om4Mw%3D%3D/photo/AF1QipNh4GyKDYce5DahpEqMPsiPCMs6D6Ld6zowXVXM)">
 </h1
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtarek47&label=Profile%20views&color=0e75b6&style=flat" alt="mtarek47" /> </p>
