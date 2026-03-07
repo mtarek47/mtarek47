@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtarek47&label=Profile%20views&color=0e75b6&style=flat" alt="mtarek47" /> </p>
 
-- 🌱 I’m currently learning **Spring boot,**
+- 🌱 I’m currently learning **Spring boot.**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react,Node,Express**
 
 - 📫 How to reach me **mtarekrahman47@gmail.com**
 
