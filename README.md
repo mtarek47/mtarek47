@@ -3,6 +3,7 @@
 </h1
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtarek47&label=Profile%20views&color=0e75b6&style=flat" alt="mtarek47" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg"/> <</p>
 
 - 🌱 I’m currently learning **Spring boot.**
 
